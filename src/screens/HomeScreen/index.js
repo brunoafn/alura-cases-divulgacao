@@ -228,7 +228,7 @@ export default function HomeScreen() {
                       color: theme.colors.neutral["900"],
                     }}
                   >
-                    Alura Cases
+                    Alura Cases indomáveis
                   </Text>
                   <Text
                     as="p"
